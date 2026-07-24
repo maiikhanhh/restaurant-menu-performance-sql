@@ -60,6 +60,17 @@ Across the top 10 highest-spending orders, Italian dishes dominate in both frequ
 - Item and category composition of high-value orders
 
 ## Recommendations
+**Expand Italian and Asian menus** - add 2–3 new items each in the next refresh; Italian leads on revenue per item, Asian on total volume 
+**Protect the 12–1 pm service window** - ensure full stock and adequate staffing from 11:30 am; a lunch gap costs ~20% more per lost order than dinner
+**Review Mexican pricing** - volume is comparable to Italian, but revenue is limited by low average item price; test higher-priced mains in Q2 
+**Investigate American before developing it further** - low volume and low revenue point to a demand issue, not a pricing fix 
+**Replace Chicken Tacos** - 123 units over a full quarter is the lowest of any dish; the menu slot is better used by a higher-priced item
+**Understand weekday patterns before acting** -  Monday's lead and Wednesday's weakness are both volume-driven; verify local context before adjusting staffing or promotions 
+
+## Limitations
+- No pre-launch menu data — performance cannot be benchmarked against the previous menu
+- Revenue figures only — no cost data to assess margin or profitability
+- No customer ID — order patterns cannot be linked to individual or repeat customers
 
 ## Repository contents
 - restaurant_orders_sql_analysis.ipynb | Main analysis notebook
